@@ -1,0 +1,3 @@
+/home/giovani/CLionProjects/Jogo da velha 1.0/cmake-build-debug/CMakeFiles/Jogo_da_velha_1_0.dir
+/home/giovani/CLionProjects/Jogo da velha 1.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/giovani/CLionProjects/Jogo da velha 1.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
